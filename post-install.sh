@@ -20,8 +20,8 @@ else
     ln -sf ~/.pikdum/steam-deck-master/vortex/fallout3-post-deploy.desktop ~/Desktop/
     ln -sf ~/.pikdum/steam-deck-master/vortex/oblivion-post-deploy.desktop ~/Desktop/
 
-    VORTEX_LINUX="v1.3.4"
-    PROTON_BUILD="GE-Proton8-27"
+    VORTEX_LINUX="v1.8.3"
+    PROTON_BUILD="GE-Proton9-13"
 
     PROTON_URL="https://github.com/GloriousEggroll/proton-ge-custom/releases/download/$PROTON_BUILD/$PROTON_BUILD.tar.gz"
 
